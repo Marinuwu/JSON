@@ -1,0 +1,138 @@
+{
+  "supermercado": [
+    {
+      "nombre": "DIA",
+      "direccion": "Calle Alfa, 39",
+      "geolocalizacion":[
+        "41°24'12.2 N", 
+        "2°10'26.5 E"
+      ],
+      "seccion": "Lacteos",
+      "productos": [
+        {
+          "nombre": "Leche semidesnatada",
+          "oferta": false,
+          "caducidad": "17-03-2028",
+          "unidades": 2,
+          "unidad_medida": "litros",
+          "precio": 1.70,
+          "adquirido": true
+        },
+        {
+          "nombre": "Yogur natural",
+          "oferta": true,
+          "caducidad": "18-03-2028",
+          "unidades": 5,
+          "unidad_medida": "gramos",
+          "precio": 1,
+          "adquirido": false
+        },
+      
+        {
+          "nombre": "Queso fresco",
+          "oferta": true,
+          "caducidad": "21-03-2028",
+          "unidades": 12,
+          "unidad_medida": "gramos",
+          "precio": 3.50,
+          "adquirido": true
+        }
+      ]
+    },
+
+    {
+      "nombre": "LIDL",
+      "direccion": "Calle Gama, 12",
+      "geolocalizacion":[
+        "44°24'12.2 N", 
+        "22°10'26.5 E"
+],
+      "seccion": "Carniceria",
+      "productos": [
+        {
+          "nombre": "Carne picada",
+          "oferta": false,
+          "caducidad": "17-03-2028",
+          "unidades": 2,
+          "unidad_medida": "kilos",
+          "precio": 5.50,
+          "adquirido": true
+        },
+        {
+          "nombre": "Pollo entero",
+          "oferta": false,
+          "caducidad": "23-03-2028",
+          "unidades": 1,
+          "unidad_medida": "kilos",
+          "precio": 6.78,
+          "adquirido": false
+        }
+      ]
+    },
+    {
+      "nombre": "ALDI",
+      "direccion": "Calle Pi, 2",
+      "geolocalizacion":[
+        "12°24'12.2 N", 
+        "1°10'26.5 E"
+],
+      "seccion": "Fruteria",
+      "productos": [
+        {
+          "nombre": "Plátanos",
+          "oferta": true,
+          "unidades": 5,
+          "unidad_medida": "gramos",
+          "precio:": 1.50,
+          "adquirido": true
+        },
+        {
+          "nombre": "Fresas",
+          "oferta": false,
+          "caducidad": "05-04-2028",
+          "unidades": 1,
+          "unidad_medida": "gramos",
+          "precio_unitario": 3.45,
+          "adquirido": false
+        }
+      ]
+    },
+ {
+      "nombre": "Carrefour",
+      "direccion": "Avenida Beta, 12",
+      "geolocalizacion": [
+        "98°24'12.2 N", 
+        "65°10'26.5 E"
+    ],
+       "seccion": "Hogar",
+       "productos":[
+        {
+          "nombre": "Jabón de manos",
+          "oferta": true,
+          "unidades": 3,
+          "unidad_medida": "litros",
+          "precio": 2,
+          "adquirido": true
+        },
+        {
+          "nombre": "Limpiador de cristales",
+          "oferta": false,
+          "unidades": 1,
+          "unidad_medida": "litros",
+          "precio": 4.50,
+          "adquirido": false
+        },
+      
+        {
+          "nombre": "Friegasuelos",
+          "oferta": true,
+          "unidades": 1,
+          "unidad_medida": "litros",
+          "precio": 2.75,
+          "adquirido": true
+        }
+      ]
+    } 
+  ]
+}
+  

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <supermercado>
+    <nombre>DIA</nombre>
+    <direccion>Calle Alfa, 39</direccion>
+    <geolocalizacion>41°24&#x27;12.2 N</geolocalizacion>
+    <geolocalizacion>2°10&#x27;26.5 E</geolocalizacion>
+    <seccion>Lacteos</seccion>
+    <productos>
+      <nombre>Leche semidesnatada</nombre>
+      <oferta>false</oferta>
+      <caducidad>17-03-2028</caducidad>
+      <unidades>2</unidades>
+      <unidad_medida>litros</unidad_medida>
+      <precio>1.7</precio>
+      <adquirido>true</adquirido>
+    </productos>
+    <productos>
+      <nombre>Yogur natural</nombre>
+      <oferta>true</oferta>
+      <caducidad>18-03-2028</caducidad>
+      <unidades>5</unidades>
+      <unidad_medida>gramos</unidad_medida>
+      <precio>1</precio>
+      <adquirido>false</adquirido>
+    </productos>
+    <productos>
+      <nombre>Queso fresco</nombre>
+      <oferta>true</oferta>
+      <caducidad>21-03-2028</caducidad>
+      <unidades>12</unidades>
+      <unidad_medida>gramos</unidad_medida>
+      <precio>3.5</precio>
+      <adquirido>true</adquirido>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>LIDL</nombre>
+    <direccion>Calle Gama, 12</direccion>
+    <geolocalizacion>44°24&#x27;12.2 N</geolocalizacion>
+    <geolocalizacion>22°10&#x27;26.5 E</geolocalizacion>
+    <seccion>Carniceria</seccion>
+    <productos>
+      <nombre>Carne picada</nombre>
+      <oferta>false</oferta>
+      <caducidad>17-03-2028</caducidad>
+      <unidades>2</unidades>
+      <unidad_medida>kilos</unidad_medida>
+      <precio>5.5</precio>
+      <adquirido>true</adquirido>
+    </productos>
+    <productos>
+      <nombre>Pollo entero</nombre>
+      <oferta>false</oferta>
+      <caducidad>23-03-2028</caducidad>
+      <unidades>1</unidades>
+      <unidad_medida>kilos</unidad_medida>
+      <precio>6.78</precio>
+      <adquirido>false</adquirido>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>ALDI</nombre>
+    <direccion>Calle Pi, 2</direccion>
+    <geolocalizacion>12°24&#x27;12.2 N</geolocalizacion>
+    <geolocalizacion>1°10&#x27;26.5 E</geolocalizacion>
+    <seccion>Fruteria</seccion>
+    <productos>
+      <nombre>Plátanos</nombre>
+      <oferta>true</oferta>
+      <unidades>5</unidades>
+      <unidad_medida>gramos</unidad_medida>
+      <precio:>1.5</precio:>
+      <adquirido>true</adquirido>
+    </productos>
+    <productos>
+      <nombre>Fresas</nombre>
+      <oferta>false</oferta>
+      <caducidad>05-04-2028</caducidad>
+      <unidades>1</unidades>
+      <unidad_medida>gramos</unidad_medida>
+      <precio_unitario>3.45</precio_unitario>
+      <adquirido>false</adquirido>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>Carrefour</nombre>
+    <direccion>Avenida Beta, 12</direccion>
+    <geolocalizacion>98°24&#x27;12.2 N</geolocalizacion>
+    <geolocalizacion>65°10&#x27;26.5 E</geolocalizacion>
+    <seccion>Hogar</seccion>
+    <productos>
+      <nombre>Jabón de manos</nombre>
+      <oferta>true</oferta>
+      <unidades>3</unidades>
+      <unidad_medida>litros</unidad_medida>
+      <precio>2</precio>
+      <adquirido>true</adquirido>
+    </productos>
+    <productos>
+      <nombre>Limpiador de cristales</nombre>
+      <oferta>false</oferta>
+      <unidades>1</unidades>
+      <unidad_medida>litros</unidad_medida>
+      <precio>4.5</precio>
+      <adquirido>false</adquirido>
+    </productos>
+    <productos>
+      <nombre>Friegasuelos</nombre>
+      <oferta>true</oferta>
+      <unidades>1</unidades>
+      <unidad_medida>litros</unidad_medida>
+      <precio>2.75</precio>
+      <adquirido>true</adquirido>
+    </productos>
+  </supermercado>
+</root>
